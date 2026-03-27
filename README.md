@@ -26,7 +26,13 @@ pip install opencv-python mediapipe numpy pycaw comtypes
  
 1. Clone this repository or download the script.
 2. Ensure your webcam is connected and not in use by another app.
-3. Install the required Python packages (see Requirements section).
+3. Install the required Python packages (see Requirements section or run:
+
+```
+pip install -r requirements.txt
+```
+
+after installing requirements.txt)
  
 ## Usage
  
