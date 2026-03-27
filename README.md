@@ -32,7 +32,7 @@ pip install opencv-python mediapipe numpy pycaw comtypes
 pip install -r requirements.txt
 ```
 
-after installing requirements.txt)
+after downloading `requirements.txt`)
  
 ## Usage
  
